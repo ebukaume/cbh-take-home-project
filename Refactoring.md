@@ -10,6 +10,6 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 
 ## Your Explanation Here
 
-I first made sure to increase the test coverage to 100% so as to make sure I covered all the ocode branches. Then, using the test cases a a guide, I refactored the function to be concise and readable.
+I first made sure to increase the test coverage to 100% so as to cover all the code branches. Then, using the test cases as a guide, I refactored the function to be concise and readable.
 
-I then extraxted common and reuseable functionalities into their separate functions and made sure to also test them.
+I then extracted common and reuseable functionalities into their separate functions and made sure to also test them.
